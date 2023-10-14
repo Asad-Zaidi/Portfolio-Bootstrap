@@ -11,9 +11,9 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-  - [🚀 Live Demo](#live-demo)
-  - [Deployment](#deployment)
+- [🛠 Built With](#built-with)
+- [🚀 Live Demo](#live-demo)
+- [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
 - [🤝 Contributing](#contributing)
