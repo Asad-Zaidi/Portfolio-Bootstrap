@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Portfolio Project</b></h3>
+<h3><b>Portfolio Project</b></h3>
 
 </div>
 
@@ -27,7 +27,7 @@
 **[Portfolio Project]** is my first **Mobile First Approach** project.
 
 ## 🛠 Built With <a name="built-with"></a>
-    HTML and CSS
+HTML and CSS
 
 
 <
