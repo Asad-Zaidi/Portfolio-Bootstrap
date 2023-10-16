@@ -1,14 +1,1 @@
-.head {
-  color: red;
-  border: 2px solid black;
-  text-align: center;
-  width: fit-content;
-}
-
-p {
-  color: yellow;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 400;
-  font-size: 30px;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
