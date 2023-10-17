@@ -1,1 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.header {
+  background-image: url(./photos/Header-Mobile-Transparent.png);
+  width: auto;
+  height: 100vh;
+  background-repeat: no-repeat;
+  padding-top: 15%;
+}
+
+.greetings {
+  border: 2px solid red;
+  letter-spacing: 0.37px;
+  width: fit-content;
+  display: inline-block;
+}
+
+.intro {
+  border: 2px solid black;
+  margin-top: 10px;
+  position: relative;
+  font-size: 20px;
+  line-height: 32px;
+  color: #172b4d;
+  text-align: center;
+  display: inline-block;
+  width: 90%;
+}
+
+@media only screen and (min-width: 767px) {
+  .header {
+    background-image: url(./photos/Desktop/Header-Desktop-Transparent.png);
+    background-size: 100%;
+  }
+}
