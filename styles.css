@@ -17,7 +17,6 @@ body {
 
 .greetings-mobile {
   letter-spacing: 0.37px;
-  width: fit-content;
   display: inline-block;
   font-size: 48px;
   font-weight: 800 !important;
@@ -66,7 +65,6 @@ body {
 
   .greetings-desktop {
     letter-spacing: 0.37px;
-    width: fit-content;
     display: inline-block;
     font-size: 48px;
     font-weight: 800 !important;
