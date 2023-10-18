@@ -8,6 +8,11 @@ body {
   display: none !important;
 }
 
+.toggler-icon {
+  height: 24px !important;
+  width: 24px !important;
+}
+
 .header {
   background-image: url(./photos/Header-Mobile.svg);
   padding-top: 18%;
@@ -55,6 +60,10 @@ body {
   display: none;
 }
 
+.hover:hover {
+  background-color: #c0c1c3;
+}
+
 .chevron {
   margin-top: 10%;
   margin-bottom: 35%;
@@ -64,6 +73,34 @@ body {
   width: fit-content;
   display: inline-block;
   padding: 8px;
+}
+
+.works {
+  font-size: 40px !important;
+  line-height: 52px;
+  color: #172b4d;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 447px;
+  height: 48px;
+}
+
+.card {
+  border-radius: 8px;
+  background-color: #ebf0ee !important;
+  border: 1px solid #d0d9d4 !important;
+  margin-bottom: 4vh;
+}
+
+.card-body {
+  margin-top: 65%;
+  background-color: #fff;
+}
+
+.button-font {
+  font-size: 10px !important;
+  font-weight: bold !important;
 }
 
 @media only screen and (min-width: 767px) {
