@@ -91,6 +91,13 @@ body {
   background-color: #ebf0ee !important;
   border: 1px solid #d0d9d4 !important;
   margin-bottom: 4vh;
+  transition: box-shadow 0.2s ease;
+  transition: transform 0.9s;
+}
+
+.card:hover {
+  box-shadow: 0 0 0 1px #727ff4;
+  transform: scale(1.02);
 }
 
 .card-body {
