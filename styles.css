@@ -16,7 +16,7 @@ body {
 .header {
   background-image: url(./photos/Header-Mobile.svg);
   padding-top: 18%;
-  width: 100%;
+  width: auto;
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -110,7 +110,7 @@ body {
   font-weight: bold !important;
 }
 
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 768px) {
   .menu {
     display: none !important;
   }
