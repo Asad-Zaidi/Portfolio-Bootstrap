@@ -8,52 +8,24 @@ body {
   display: none !important;
 }
 
-.toggler-icon {
-  height: 24px !important;
-  width: 24px !important;
-}
-
 .header {
   background-image: url(./photos/Header-Mobile.svg);
   padding-top: 18%;
-  width: auto;
-  height: 100%;
-  background-repeat: no-repeat;
   background-size: cover;
-  background-color: #fff;
 }
 
 .greetings-mobile {
-  letter-spacing: 0.37px;
   display: inline-block;
-  font-size: 40px;
-  font-weight: 600;
-  line-height: 52px;
-  width: 90%;
+  font-size: 35px;
 }
 
 .greetings-desktop {
   display: none;
 }
 
-.line1 {
-  margin: 0;
-}
-
-.line2 {
-  margin: 0;
-  color: #36b37e;
-}
-
 .intro-mobile {
-  margin-top: 10px;
-  font-size: 20px;
-  line-height: 28px;
-  color: #172b4d;
-  text-align: center;
   display: inline-block;
-  width: 327px;
-  margin-bottom: 12px;
+  width: 90%;
 }
 
 .intro-desktop {
@@ -61,36 +33,15 @@ body {
 }
 
 .hover:hover {
-  background-color: #c0c1c3;
+  background-color: #d5d5d6;
 }
 
 .chevron {
-  margin-top: 10%;
-  margin-bottom: 35%;
-  border-radius: 32px;
-  background-color: #fff;
-  border: 1px solid #d7d8db;
-  width: fit-content;
+  margin-bottom: 30%;
   display: inline-block;
-  padding: 8px;
-}
-
-.works {
-  font-size: 40px !important;
-  line-height: 52px;
-  color: #172b4d;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
-  width: 447px;
-  height: 48px;
 }
 
 .card {
-  border-radius: 8px;
-  background-color: #ebf0ee !important;
-  border: 1px solid #d0d9d4 !important;
-  margin-bottom: 4vh;
   transition: box-shadow 0.2s ease;
   transition: transform 0.9s;
 }
@@ -102,7 +53,6 @@ body {
 
 .card-body {
   margin-top: 65%;
-  background-color: #fff;
 }
 
 .button-font {
@@ -122,8 +72,6 @@ body {
   .header {
     background-image: url(./photos/Desktop/Header-Desktop-Transparent.png);
     background-size: 100% 100%;
-    background-repeat: no-repeat;
-    height: auto;
   }
 
   .greetings-mobile {
@@ -131,12 +79,8 @@ body {
   }
 
   .greetings-desktop {
-    letter-spacing: 0.37px;
     display: inline-block;
-    font-size: 48px;
-    font-weight: 800 !important;
-    line-height: 60px;
-    width: 65%;
+    font-size: 45px;
   }
 
   .intro-mobile {
@@ -144,10 +88,6 @@ body {
   }
 
   .intro-desktop {
-    margin-top: 10px;
-    font-size: 20px;
-    line-height: 32px;
-    text-align: center;
     display: inline-block;
     width: 60%;
   }
