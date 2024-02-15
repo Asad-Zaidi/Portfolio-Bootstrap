@@ -44,7 +44,6 @@ HTML and CSS
 You can deploy this project using Github Pages
 
 
-
 ## 👥 Authors <a name="authors"></a>
 
 
