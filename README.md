@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 <div align="center">
 <h3><b>Portfolio Project</b></h3>
 
